@@ -1,2 +1,2 @@
 # PraRoz
-Landing Page para treino, com área de menu, login e senha.
+Landing Page com área de menu, login e senha.
